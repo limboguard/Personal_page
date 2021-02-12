@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=Open+Sans&display=swap");
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Nunito", sans-serif;
+}
+
+p {
+  font-family: "Quicksand", Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #f8f9fa;
+}
+
+#profile-image {
+  display: inline;
+}
+
+#intro-text {
+  display: inline-block;
+}
